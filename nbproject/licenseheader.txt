@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This is testing Project for PHP Blog
+${licensePrefix}So please push your improvisation ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
